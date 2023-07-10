@@ -1,1 +1,1 @@
-The objective of this project is to apply and showcase my knowledge and skills in the field of Data Science.
+This project uses a logistic regression model to predict user conversion on a website, and gain insights into business operations through exploratory data analysis.
